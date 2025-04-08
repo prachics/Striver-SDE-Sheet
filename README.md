@@ -17,3 +17,37 @@ To solve **at least one LeetCode problem every day** and improve problem-solving
 
 The problems are organized **topic-wise** (e.g., Arrays, Linked List, Stack) and inside each topic, each problem has its own folder:
 
+
+---
+
+## 📚 What is Striver's SDE Sheet?
+
+Striver's SDE Sheet is a set of hand-picked coding problems for Software Development Engineer (SDE) interviews created by [Take U Forward](https://takeuforward.org/interviews/strivers-sde-sheet-top-coding-interview-problems/).
+
+It covers:
+- Arrays & Strings
+- Linked Lists
+- Stacks & Queues
+- Trees
+- Graphs
+- Dynamic Programming
+- Greedy
+- and more...
+
+---
+
+## 🚀 My Goal
+
+- Build consistency with daily problem solving
+- Understand brute force and optimal approaches
+- Document everything clearly for future revision and public sharing
+
+---
+
+## 🙌 Contributions
+
+This is a personal learning repository. Feel free to browse and use the solutions for learning. If you're also following the Striver Sheet and want to collaborate, feel free to reach out.
+
+---
+
+**Let's ace those interviews together! 💪**
